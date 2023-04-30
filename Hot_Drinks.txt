@@ -1,0 +1,16 @@
+Hot Latte
+8.50
+Hot Cappucino
+8.50
+Hot Americano
+8.50
+Hot Mocha
+8.50
+Hot Lemon Tea
+2.50
+Warm Water 
+1.00
+Teh Tarik
+3.50
+Kopi Tarik 
+3.50

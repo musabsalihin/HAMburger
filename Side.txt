@@ -1,0 +1,20 @@
+MekFries
+7.50
+Curly Fries
+7.50
+Wedges
+7.50
+MekNuggets
+7.50
+Mashed Potatoes
+8.00
+Chicken wing
+10.00
+Popcorn Chicken
+8.00
+Coleslaw
+7.50 
+Chicken Pie
+8.00
+Apple Pie
+8.00

@@ -1,0 +1,26 @@
+Coke
+4.00
+Sprite
+4.00
+Root Beer
+4.00
+Ice Lemon Tea
+3.00
+Green Tea
+4.00
+Strawberry Milkshake
+8.00
+Vanilla Milkshake
+8.00
+Chocolate Milkshake
+8.00
+Iced Latte
+9.00
+Iced Cappucino
+9.00
+Ice Americano
+9.00
+MekKetum
+10.00
+Mineral Water
+2.00

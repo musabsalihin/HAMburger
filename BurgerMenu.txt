@@ -1,0 +1,18 @@
+Chicken
+4.50
+Crispy Chicken
+6.50
+Spicy MekChicken
+8.50
+Beef Brisket
+18.00
+Smashed
+6.00
+Double Smashed
+10.00
+Triple Smashed 
+14.00
+HAM
+15.00
+Burgembira
+12.00
