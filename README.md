@@ -17,3 +17,5 @@ Student ID: SW01081837
 6. Open daily_entry.txt to observe the output after receipt confirmation
 
 +++++++++++++++++++++++++++
+
+Run HAMburger.jar
